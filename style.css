@@ -3852,7 +3852,8 @@ textarea.form-control-lg {
   border-radius: 6px;
   box-sizing: border-box;
   text-align: right;
-  padding: 0px;
+  padding: 1px;
+  margin-top: 5px;
 }
 
 

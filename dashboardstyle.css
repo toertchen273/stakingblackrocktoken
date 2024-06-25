@@ -1,3 +1,6 @@
+#stake-amount, #estimated-rewards, #claimed-rewards, #estimated-rewards-24h {
+  font-size: 18px;
+}
 .main-content {
   margin-top: 100px;
   width: 90%;
@@ -62,7 +65,7 @@
   border-radius: 5px;
   cursor: pointer;
   color: #fff;
-  font-size: 16px;
+  font-size: 12px;
 }
 
 .stake-button {
@@ -174,7 +177,7 @@
 
 .statitem p {
   margin: 10px 0 0;
-  font-size: 1em;
+  font-size: 0.8em;
   color: #000;
 }
 
